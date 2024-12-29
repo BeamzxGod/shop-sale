@@ -104,10 +104,6 @@ nav {
     transform: scale(1.2);
 }
 
-.sidebar li a:hover {
-    margin: 16px;
-    color: aqua;
-}
 
 .sidebar li {
     margin: 15px;
